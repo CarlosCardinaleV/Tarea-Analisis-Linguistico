@@ -4,6 +4,13 @@
 
 Este repositorio contiene un proyecto que realiza un análisis lingüístico de una página web en español utilizando Python. A continuación, se describen los aspectos clave de este proyecto.
 
+## Licencia
+
+Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE.md para obtener más detalles.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
+
 ## Descripción
 
 En este proyecto, se realiza un análisis lingüístico de una página web en español utilizando Python. Las tareas principales incluyen la identificación y extracción de oraciones y tokens, el manejo de caracteres especiales y la aplicación de la teoría del tamaño del vocabulario.
@@ -48,10 +55,6 @@ La distribución de Zipf establece que las palabras más utilizadas aparecerán 
 
 Si deseas contribuir a este proyecto, por favor sigue las pautas descritas en el archivo CONTRIBUTING.md.
 
-## Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE.md para obtener más detalles.
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
 ---
 ## Bibliografía
