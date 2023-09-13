@@ -55,4 +55,4 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE.md para ob
 
 ---
 
-[1] (https://www.madrimasd.org/blogs/matematicas/2019/03/10/146325#:~:text=La%20ley%2C%20de%20manera%20simple,m%C3%A1s%20usada%2C%20y%20as%C3%AD%20sucesivamente.)
+[1](https://www.madrimasd.org/blogs/matematicas/2019/03/10/146325#:~:text=La%20ley%2C%20de%20manera%20simple,m%C3%A1s%20usada%2C%20y%20as%C3%AD%20sucesivamente.)
