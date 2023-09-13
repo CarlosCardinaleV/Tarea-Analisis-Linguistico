@@ -51,9 +51,6 @@ Según la teoría, a medida que el texto se vuelve más grande, aumenta la canti
 
 La distribución de Zipf establece que las palabras más utilizadas aparecerán con mayor frecuencia que las menos utilizadas. Esto se describe de la siguiente manera: "La segunda palabra más usada aparecerá la mitad de veces que la palabra más usada, la tercera palabra más usada un tercio de veces que la más usada, la cuarta palabra más usada un cuarto de veces que la más usada, y así sucesivamente." (1)
 
-## Contribución
-
-Si deseas contribuir a este proyecto, por favor sigue las pautas descritas en el archivo CONTRIBUTING.md.
 
 
 ---
