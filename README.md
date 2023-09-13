@@ -51,7 +51,7 @@ Si deseas contribuir a este proyecto, por favor sigue las pautas descritas en el
 ## Licencia
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE.md para obtener más detalles.
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
 ---
 ## Bibliografía
