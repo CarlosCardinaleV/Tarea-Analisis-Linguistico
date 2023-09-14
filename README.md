@@ -59,7 +59,7 @@ A continuación, se presenta una gráfica que muestra las palabras más utilizad
 
 La gráfica proporciona una representación visual de las palabras más frecuentes en el texto analizado. Esto puede ayudar a los lectores a obtener una comprensión rápida de los temas clave abordados en la noticia. Ten en cuenta que la legibilidad de la gráfica se está mejorando para facilitar la identificación de cada palabra.
 
-Si deseas explorar más detalles sobre el análisis o los resultados, puedes consultar el archivo Jupyter Notebook correspondiente.
+Si desea explorar más detalles sobre el análisis o los resultados, puede consultar el archivo Jupyter Notebook correspondiente.
 
 ---
 ## Bibliografía
@@ -69,12 +69,12 @@ Si deseas explorar más detalles sobre el análisis o los resultados, puedes con
 ---
 ## Mejoras
 
-El proyecto de análisis lingüístico de noticias en línea es un trabajo en progreso, y existen oportunidades para mejorarlo aún más. Algunas de las mejoras que consideramos incluyen:
+El proyecto de análisis lingüístico de noticias en línea es un trabajo en progreso, y existen oportunidades para mejorarlo aún más. Algunas de las mejoras que se consideran incluyen:
 
 1. **Enfoque en la Noticia Principal**: Actualmente, el análisis abarca todas las noticias de la página web, lo que puede incluir noticias más pequeñas. Una mejora sería implementar un filtro que se centre exclusivamente en la noticia principal o más relevante del sitio web.
 
-2. **Mejora en la Visualización de las Palabras más Utilizadas**: La gráfica que muestra las palabras más utilizadas puede no ser óptima en términos de legibilidad. Planeamos mejorar la presentación de esta gráfica para que las palabras sean más claramente identificables.
+2. **Mejora en la Visualización de las Palabras más Utilizadas**: La gráfica que muestra las palabras más utilizadas puede no ser óptima en términos de legibilidad. Se Planea mejorar la presentación de esta gráfica para que las palabras sean más claramente identificables.
 
-Estas mejoras están en nuestra hoja de ruta para futuras actualizaciones del proyecto. Además, ten en cuenta que el archivo .ipynb puede no mostrarse correctamente en GitHub, pero siempre puedes descargarlo para una visualización adecuada en tu entorno local.
+Estas mejoras están en la hoja de ruta para futuras actualizaciones del proyecto. Además, ten en cuenta que el archivo .ipynb puede no mostrarse correctamente en GitHub, pero siempre se puede descargar para una visualización adecuada en su entorno local. También se proporciona el código en python donde se puede ver que se hizo y el código fuente, pero sin la visualización que tiene el archivo .ipython.
 
-Agradecemos cualquier comentario o contribución de la comunidad para seguir mejorando este proyecto. Si tienes ideas adicionales o sugerencias, no dudes en compartirlas.
+Se agradece cualquier comentario o contribución de la comunidad para seguir mejorando este proyecto. Si tiene ideas adicionales o sugerencias, no dude en compartirlas.
