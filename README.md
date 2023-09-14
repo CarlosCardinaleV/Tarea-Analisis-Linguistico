@@ -66,6 +66,8 @@ Si desea explorar más detalles sobre el análisis o los resultados, puede consu
 
 [(1) La ley de Zipf revisitada](https://www.madrimasd.org/blogs/matematicas/2019/03/10/146325#:~:text=La%20ley%2C%20de%20manera%20simple,m%C3%A1s%20usada%2C%20y%20as%C3%AD%20sucesivamente.)
 
+2 Daniel Jurafsky, James H. Martin. "Speech and Language Processing An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition".(2019)
+
 ---
 ## Mejoras
 
